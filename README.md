@@ -15,6 +15,10 @@ Using only **digital logic ICs**, the system counts the number of heartbeats in 
 * ⚡ **Analog-to-digital conversion** of heart pulses using comparator circuits
 * 🔌 **Completely hardware-based** design with no software or programming
 * 🧪 **Educational tool** to learn about biomedical sensing and digital circuit design
+  
+![project](https://github.com/user-attachments/assets/24c47aa0-be8c-4502-b5c4-ec1395962bcb)
+
+
 
 ### 🎯 Learning Objectives
 
